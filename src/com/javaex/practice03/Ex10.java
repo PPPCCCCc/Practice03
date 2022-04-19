@@ -16,10 +16,7 @@ public class Ex10 {
 			//수정
 			
 		}
-		
 		System.out.println("최대값은 " + a + "입니다.");
-		sc.close();
-
 	}
 
 }

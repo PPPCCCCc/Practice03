@@ -21,8 +21,8 @@ public class Ex16 {
                 sum = sum + i;
             }
         }
-        System.out.println("5의 배수의 개수 : " + c);
-        System.out.println("5의 배수의 합 : " + sum);
+        System.out.println("5의배수의 개수 : " + c);
+        System.out.println("5의배수의 합 : " + sum);
         
     }
 	}

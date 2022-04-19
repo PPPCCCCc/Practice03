@@ -13,7 +13,6 @@ public class Ex12 {
 		  {
 		   a--;
 		   b=b*a;
-		  
 		  }
 		  System.out.print("결과값 : " + b);
 		 }
